@@ -7,7 +7,7 @@
   <h3 align="center">By Rodz</h3>
 
   <p align="center">
-    A simple notes app!
+    A simple To do list app!
     <br />
   </p>
 </div>
